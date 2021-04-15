@@ -28,7 +28,6 @@ def getdeminfo():
 
 def main():
     connect()
-    #insertdb('key5','testtitle', 'http://testurl', 'testauthor', 10, datetime.date(2012, 3, 23), '123456',11,'testperm','testflair')
     disconnect()
 if __name__ == '__main__':
     main()
