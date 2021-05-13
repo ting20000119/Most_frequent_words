@@ -1,4 +1,4 @@
 # r-Democrats_comments_count
-Topic : Calculate the most frequently  words (only nonus and adjectives) in the comments on Reddit r/Democrats in 2020.
+Topic : Calculated the most frequent  words (only nonus and adjectives) used in Reddit (r/Democrats) comments during 2020.
 
-Run dbconnect.py to get r/Democrats comments in 2020 from database.
+Run dbconnect.py to get r/Democrats comments  from database.
